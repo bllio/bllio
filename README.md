@@ -1,6 +1,6 @@
 # bllio 💫
 
-https://bllio.github.io/
+https://dev.syabilyusoff.com/
 
 **Hello world!**
 
